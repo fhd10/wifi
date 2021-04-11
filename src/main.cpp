@@ -3,6 +3,7 @@
 #include <ESPAsyncTCP.h>
 #include <ESPAsyncWebServer.h>
 #include "DHT.h"
+library
 
 const char *ssid = "HUAWEI P40";
 const char *password = "123456781";
