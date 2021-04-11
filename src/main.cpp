@@ -2,7 +2,7 @@
 #include <ESP8266WiFi.h>
 #include <ESPAsyncTCP.h>
 #include <ESPAsyncWebServer.h>
-#include "DHT.h" test
+#include "DHT.h"
 
 const char *ssid = "HUAWEI P40";
 const char *password = "123456781";
